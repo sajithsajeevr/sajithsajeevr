@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @sajithsajeevr
-- 👀 I’m interested in server side scripting
-- 🌱 I’m currently learning serverless
 - 💞️ I’m looking to collaborate on backend
 - 📫 
 
